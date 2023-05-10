@@ -6,16 +6,14 @@
 ###### 1st place in Project Competition for 2 courses, Catec 2023;
 
 ### My Skills:
-Python
-HTML CSS JS
-C#
-C++
-1C
-Node.js
-
-Arduino
-
-Unity 3D
-Photoshop
-CorelDraw
-Blender 3D
+###### Python
+###### HTML CSS JS
+###### C#, WinForms
+###### C++
+###### 1C
+###### Node.js
+###### Arduino, ESP
+###### Unity 3D
+###### Photoshop
+###### CorelDraw
+###### 
