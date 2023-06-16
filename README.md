@@ -1,4 +1,3 @@
-<img src="./header.png" alt="header">
 <h1 align="center">Hi 👋, I'm lyarov22</h1>
 <h3 align="center">A novice programmer student from Kazakhstan</h3>
 
