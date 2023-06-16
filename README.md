@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm lyarov22</h1>
 <h3 align="center">A novice programmer student from Kazakhstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyarov22&label=Profile%20views&color=0e75b6&style=flat" alt="lyarov22" /> </p>
-
 - 🔭 I’m currently working on [project name](project name)
 
 - 🌱 I’m currently learning **Python (Django), C/C++ (Arduino), Linux (Bash)**
