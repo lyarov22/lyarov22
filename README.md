@@ -1,3 +1,4 @@
+<img src="./header.png" alt="header">
 # Hello, I am @lyarov22!
 ### My achievements:
 ###### 1st place in Turan PM Week, Almaty 2022;
