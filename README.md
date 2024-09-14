@@ -9,7 +9,7 @@
 
 - 📝 Сreator of the IT Almaty community [t.me/it_almaty](t.me/it_almaty)
 
-- 🤓 I'm study at the **Central Asian Techical and Economic College**
+- 🤓 I'm part of **Central Asian Techical and Economic College**
 
 - 📫 My email is **lyarov22@gmail.com**
 
