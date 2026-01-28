@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DevOps & PM**
 
-- 🤝 I’m looking for help with [EventHub.KZ](https://eventhub.kz)
-
 - 👯 I’m creator of the [Almaty IT Community](https://t.me/it_almaty)
 
 - 👨‍💻 All of my projects are available at [lyarov22.github.io](https://lyarov22.github.io)
